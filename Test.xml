@@ -1,0 +1,33 @@
+<shapes>
+  <triangle>
+    <color>red</color>
+    <side>1.5</side>
+    <side>1.6</side>
+    <side>1.7</side>
+  </triangle>
+  <triangle>
+    <color>green</color>
+    <side>2.5</side>
+    <side>2.5</side>
+    <side>2.5</side>
+  </triangle>
+  <triangle>
+    <color>yellow</color>
+    <side>1.5</side>
+    <side>1.5</side>
+    <side>1.5</side>
+  </triangle>
+  <square>
+    <color>black</color>
+    <side>5</side>
+  </square>
+  <rectangle>
+    <color>white</color>
+    <side>5.5</side>
+    <side>7</side>
+  </rectangle>
+  <circle>
+    <color>orange</color>
+    <diameter>1.5</diameter>
+  </circle>
+</shapes>
